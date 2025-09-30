@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexWu42, an undergraduate student of USTC, major in Geophysics.
-
+Email: wujn@mail.ustc.edu.cn
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
